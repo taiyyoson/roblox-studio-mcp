@@ -1,6 +1,8 @@
 # roblox-studio-mcp
 
-mcp server scaffolded from go-mcp-bootstrap.
+mcp server scaffolded from [go-mcp-bootstrap.](https://github.com/taiyyoson/mcp-server-bootstrap) 
+
+(this is my bootstrap)
 
 ```sh
 go run ./cmd/server   # serve over stdio
